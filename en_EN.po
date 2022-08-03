@@ -1,0 +1,14 @@
+msgid "Hello"
+msgstr "Hello"
+
+msgid "Goodbye"
+msgstr "Goodbye"
+
+msgid "How are you?"
+msgstr "How are you?"
+
+msgid "Benefits"
+msgstr "Benefits"
+
+msgid "People"
+msgstr "People"
