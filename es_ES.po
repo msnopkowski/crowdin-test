@@ -1,0 +1,14 @@
+msgid "Hello"
+msgstr "Hola"
+
+msgid "Goodbye"
+msgstr "Adiós"
+
+msgid "How are you?"
+msgstr "¿Cómo estás?"
+
+msgid "Benefits"
+msgstr "Beneficios"
+
+msgid "People"
+msgstr "Personas"
