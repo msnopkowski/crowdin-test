@@ -1,14 +1,29 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: tc-test\n"
+"X-Crowdin-Project-ID: 530508\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /main/pl_PL.po\n"
+"X-Crowdin-File-ID: 64\n"
+"Project-Id-Version: tc-test\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-08-03 14:23\n"
+
 msgid "Hello"
-msgstr "Hello"
+msgstr ""
 
 msgid "Goodbye"
-msgstr "Goodbye"
+msgstr ""
 
 msgid "How are you?"
-msgstr "How are you?"
+msgstr ""
 
 msgid "Benefits"
-msgstr "Benefits"
+msgstr ""
 
 msgid "People"
-msgstr "People"
+msgstr ""
+
