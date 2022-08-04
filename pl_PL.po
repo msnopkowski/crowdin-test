@@ -10,20 +10,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2022-08-04 13:11\n"
+"PO-Revision-Date: 2022-08-04 13:13\n"
 
 msgid "Hello"
-msgstr ""
+msgstr "Cześć"
 
 msgid "Goodbye"
-msgstr ""
+msgstr "Dowidzenia"
 
 msgid "How are you?"
-msgstr ""
+msgstr "Jak się masz?"
 
 msgid "Benefits"
-msgstr ""
+msgstr "Korzyści"
 
 msgid "People"
-msgstr ""
+msgstr "Ludzie"
 
